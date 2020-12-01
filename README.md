@@ -5,5 +5,4 @@ A motivated and professional Android engineer with 4+ years experience, have a s
 I had worked for industries such as Transportation, Fleet Management, logistics, Saudi Government services And E-commerce.
 
 [![Linkedin](https://img.shields.io/badge/-linkedin-grey?logo=linkedin)](https://www.linkedin.com/in/alsaifi/)
-[![Twitter](https://img.shields.io/badge/-twitter-grey?logo=twitter)](https://twitter.com/Siifiii)
 

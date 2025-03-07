@@ -36,16 +36,6 @@ Currently, I’m a Senior Android Engineer at **THIQAH Business Services**, wher
 - Boosted code quality to 92% coverage with Detekt and SonarQube.  
 - Refactored legacy codebases, slashing crash rates by 85%.  
 
-
-## 📊 GitHub Stats
-
-![Kareem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-*(Update `yourusername` with your GitHub username to auto-generate stats.)*
-
----
-
 ## 📫 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alsaifi/)  
